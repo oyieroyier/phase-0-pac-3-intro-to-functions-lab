@@ -33,4 +33,4 @@ function sayHiToHeadphonedRoommate(string) {
 	}
 }
 
-console.log(sayHiToHeadphonedRoommate("hahaha"));
+sayHiToHeadphonedRoommate("string")
